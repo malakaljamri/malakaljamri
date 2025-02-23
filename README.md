@@ -1,4 +1,4 @@
-# Hi 👋, I'm Malak Aljammri
+# Hi 👋, I'm Malak Aljamri
 
 ## 💻 Developer | 🔐 Cyber Security
 
