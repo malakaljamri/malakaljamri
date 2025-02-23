@@ -1,6 +1,6 @@
 # Hi 👋, I'm Malak Aljammri
 
-## 💻 Developer | 🎮 Game Enthusiast | 🔐 Cyber Security
+## 💻 Developer | 🔐 Cyber Security
 
 📍 Based in Bahrain | 🚀 Always building & learning
 
