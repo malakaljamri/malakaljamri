@@ -4,7 +4,7 @@
 
 📍 Based in Bahrain | 🚀 Always building & learning
 
-I'm a passionate **Full Stack Developer** with experience in backend and frontend technologies. I enjoy solving complex problems, building applications, and exploring the latest trends in **IT**. 
+I'm a passionate **Full Stack Developer** with experience in backend and frontend technologies. I enjoy solving complex problems,laerning and exploring the latest trends in **IT**. 
 
 📧 **Contact Me:** [malakaljamri02@gmail.com](mailto:malakaljamri02@gmail.com)
 
