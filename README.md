@@ -1,4 +1,7 @@
-Hi 👋 My name is Malak ======================  Full Stack Developer --------------------  * 🌍  I'm based in Bahrain * ✉️  You can contact me at [malakaljamri02@gmail.com](mailto:malakaljamri02@gmail.com)
+Hi 👋 My name is Malak Aljammri 
+Full Stack Developer 
+🌍  I'm based in Bahrain 
+✉️  You can contact me at [malakaljamri02@gmail.com](mailto:malakaljamri02@gmail.com)
 
 ### Skills  
 
