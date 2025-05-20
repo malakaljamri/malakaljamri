@@ -1,8 +1,6 @@
 # Hi 👋, I'm Malak Aljamri
 
-## 💻 Developer | 🔐 Cyber Security
-
-📍 Based in Bahrain | 🚀 Always building & learning
+## 💻 Developer | 🔐 Cyber Security | 📍 Based in Bahrain | 🚀 Always building & learning
 
 I'm a **Full Stack Developer** with experience in backend and frontend technologies. I enjoy solving complex problems,laerning and exploring the latest trends in **IT**. 
 
